@@ -1,0 +1,23 @@
+.header{
+    background-color: #313945;
+    overflow: hidden;
+    height: 0%;
+}
+
+.logo
+{
+    float: left;
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
+.header a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    padding-right: 20px;
+    border-radius: 3px;
+}
